@@ -5,9 +5,13 @@
       <change afterPath="$PROJECT_DIR$/fib-client/Dockerfile.dev" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/fib-client/src/Fib.tsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/fib-client/src/OtherPage.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fib-client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/fib-client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fib-client" beforeDir="false" afterPath="$PROJECT_DIR$/fib-client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fib-client/package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/fib-client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/fib-client/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fib-client/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/fib-client/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fib-server/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fib-worker/package-lock.json" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +28,7 @@
     </execution>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/fib-client" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -35,6 +39,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -66,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1567433783890</updated>
       <workItem from="1567433785280" duration="513000" />
-      <workItem from="1567436398661" duration="593000" />
+      <workItem from="1567436398661" duration="814000" />
     </task>
     <servers />
   </component>
