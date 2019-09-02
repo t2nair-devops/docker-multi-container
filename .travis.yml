@@ -7,7 +7,7 @@ script:
   - docker run -e CI=true t2nair/multi-client-test npm run test
 after_success:
   - docker build -t t2nair/multi-client ./client
-  - docker build -t t2nair/multi-nginx ./fib-nginx
+  - docker build -t t2nair/multi-nginx ./nginx
   - docker build -t t2nair/multi-server ./server
   - docker build -t t2nair/multi-worker ./worker
   - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_ID" --password-stdin
